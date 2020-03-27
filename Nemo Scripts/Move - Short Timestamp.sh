@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/ts -m -s "$1"
+ts -m -s "$1"
